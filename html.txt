@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document<?/title>
+</head>
+<body>
+<h1>HTML</h1>
+<hr>
+<p>HTML is a hypertext markup language</p>
+<a href="https://en.wikipedia.org/wiki/HTML"target="_blank">know more</a>
+<hr>
